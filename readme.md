@@ -8,7 +8,7 @@ Step to run this project
 3. Go the dir which has this .py file maybe in Downloads
 
 4. Run this command to create a virtual env 
-    <python -m venv myenv>
+    <python -m venv myenv> run in cmd
 
 5. Activate the env <myenv\Scripts\activate> Run this command, After this we will run all commnd in virtual env only
 
